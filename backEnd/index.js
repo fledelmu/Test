@@ -6,7 +6,6 @@ import dotenv from 'dotenv';
 
 const { Pool } = pkg;
 
-const express = require('express')
 const app = express()
 const port = 4000;
 
